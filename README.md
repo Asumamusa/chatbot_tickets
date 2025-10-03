@@ -121,5 +121,10 @@ python3 backend.py
 ```
 
 ## Crédits
+Développé par Kenan TUNC, Nicolas SZPAKOWSKI et Emilien FOURGNIER dans le cadre du **Projet Cassiopée 2025** à **Télécom SudParis**.
 
-Développé par Emilien Fourgnier, Nicolas Szpakowski, Kenan Tunc dans le cadre du projet Cassiopée 2025 de Télécom SudParis.
+## Licence
+Ce projet est distribué sous licence MIT.  
+Copyright (c) 2025 Kenan TUNC, Nicolas SZPAKOWSKI, Emilien FOURGNIER  
+Projet Cassiopée – Télécom SudParis  
+Voir le fichier [LICENSE](LICENSE) pour plus de détails.
